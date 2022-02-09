@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(496,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  GameForm.cpp
+C:\Users\Yaroslav\source\repos\GameSnake\GameSnake\GameForm.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Yaroslav\source\repos\GameSnake\GameSnake\GameForm.cpp(149,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Yaroslav\source\repos\GameSnake\GameSnake\GameForm.cpp(239,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  GameForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  GameSnake.vcxproj -> C:\Users\Yaroslav\source\repos\GameSnake\GameSnake\z\GameSnake.exe

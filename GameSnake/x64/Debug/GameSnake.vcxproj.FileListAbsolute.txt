@@ -1,0 +1,4 @@
+C:\Users\Yaroslav\source\repos\GameSnake\GameSnake\x64\Debug\GameSnake.vcxproj.AssemblyReference.cache
+C:\Users\Yaroslav\source\repos\GameSnake\GameSnake\x64\Debug\GameSnake.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Yaroslav\source\repos\GameSnake\GameSnake\x64\Debug\GameSnake.GameForm.resources
+C:\Users\Yaroslav\source\repos\GameSnake\GameSnake\x64\Debug\GameSnake.vcxproj.GenerateResource.cache

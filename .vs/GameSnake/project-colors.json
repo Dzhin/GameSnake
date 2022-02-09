@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a7533e30-1ec9-4636-9a0b-2c1b8ae3d893": {
+      "ProjectGuid": "a7533e30-1ec9-4636-9a0b-2c1b8ae3d893",
+      "DisplayName": "GameSnake",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
